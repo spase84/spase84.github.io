@@ -1,11 +1,7 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "JL9UUG49F4.com.applicatura.Squlapius",
-                "paths": [ "*" ]
-            },
-        ]
-    }
+	"webcredentials": {
+		"apps": [
+			"53ND5H7K7Y.com.101-GROUP.EstimateLight"
+		]
+	}
 }
