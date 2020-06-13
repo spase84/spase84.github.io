@@ -3,8 +3,12 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "2L477STGUH.com.exgo.app".
-				"paths": ["*"]
+				"appIDs": ["2L477STGUH.com.exgo.app"],
+				"components": [
+					{
+						"#": "route"
+					}
+				]
 			}
 		]
 	}
