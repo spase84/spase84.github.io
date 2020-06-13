@@ -1,7 +1,11 @@
 {
-	"webcredentials": {
-		"apps": [
-			"53ND5H7K7Y.com.101-GROUP.EstimateLight"
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "2L477STGUH.com.exgo.app".
+				"paths": ["*"]
+			}
 		]
 	}
 }
